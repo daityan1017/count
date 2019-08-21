@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">count</string>
+    <string name="text">text</string>
+    <string name="butttn">button</string>
+</resources>
